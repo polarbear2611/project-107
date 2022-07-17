@@ -1,0 +1,46 @@
+body
+{
+    font-family: 'Rock Salt', cursive;
+    background: darkgoldenrod;
+}
+
+.header_div
+{
+    background:white;
+    color:red;
+}
+
+.header_div p
+{
+    font-family: 'roboto',san-serif;
+    color:dimgrey;
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'roboto',san-serif;
+    margin-top: 30px;
+    width:130px;
+    letter-spacing: 3px;
+    font-size:12px;
+    font-weight: bolder;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: grey;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color: peachpuff;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 10px 10px 10px dimgray;
+
+
+
+}
